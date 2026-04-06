@@ -32,7 +32,7 @@ export default function About() {
 
                     {/* SMALL IMAGE */}
                     <img
-                        src="/images/rudraksha.jpg"
+                        src="/images/Rudraksha2.jpg"
                         className="absolute -top-10 -right-6 w-32 h-32 object-cover rounded-lg shadow-md border-4 border-white"
                     />
 

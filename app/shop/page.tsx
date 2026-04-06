@@ -45,7 +45,7 @@ const products = [
     name: "Rudraksha",
     price: "₹999 / piece",
     category: "Natural",
-    image: "/images/rudraksha.jpg",
+    image: "/images/Rudraksha.jpg",
   },
   {
     id: 7,
