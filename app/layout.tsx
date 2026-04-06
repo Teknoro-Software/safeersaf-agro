@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pison Clothing Company",
-  description: "Pison Clothing Company",
+  title: "SafeerSaf Agro",
+  description: "SafeerSaf Agro",
 };
 
 export default function RootLayout({
